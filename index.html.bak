@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>BPR Atlasmara</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.png">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/classy-nav.css">
+
+</head>
+
+<!-- <body oncontextmenu="return false;"> -->
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- Top Header Area -->
+        <div class="top-header-area">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center">
+                    <div class="col-12 d-flex justify-content-between">
+                        <!-- Logo Area -->
+                        <div class="logo">
+                            <a href="index.html"><img src="img/logo-header.jpg" width="448" height="100" border="0" alt=""></a>
+                        </div>
+
+                        <!-- Top Contact Info -->
+                        <div class="top-contact-info d-flex align-items-center" style="margin-top: -5%;">
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="Log on to Online Banking"><img src="img/core-img/online.png" alt=""> <span>Log on to Online Banking</span></a>
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title=" info@bpr.rw"><img src="img/core-img/message.png" alt=""> <span> info@bpr.rw</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navbar Area -->
+        <div class="credit-main-menu" id="sticker">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="creditNav">
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="index.html">Home</a></li>
+                                    <li style="margin-left: -2%;"><a href="#">About Us</a>
+                                        <ul class="dropdown" style="width: 200px;">
+                                            <li><a href="index.html">Company information</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="index.html">Our History</a></li>
+                                                    <li><a href="index.html">Vision and Mission</a></li>
+                                                    <li><a href="index.html">Our Values</a></li>
+                                                    <li><a href="index.html">Our Awards</a></li>
+                                                    <li><a href="index.html">Media</a></li>
+                                                    <li><a href="index.html">Tenders</a></li>
+                                                    <li><a href="index.html">Careers</a></li>
+                                                  </ul>
+                                            </li>
+                                            <li><a href="index.html">Our Team</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="index.html">Directors</a></li>
+                                                    <li><a href="index.html">Management</a></li>
+                                                  </ul>
+                                            </li>
+                                            <li><a href="index.html">Investor relations</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="index.html">Investor information</a></li>
+                                                    <li><a href="index.html">Financial information</a></li>
+                                                  </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li style="margin-left: -1%;"><a href="#">Retail</a>
+                                        <ul class="dropdown">
+                                            <li><a href="index.html">Personal banking</a>
+                                                <ul class="dropdown" style="width: 200px;">
+                                                    <li><a href="index.html">Transactional accounts</a>
+                                                        <ul class="dropdown" style="width: 250px;">
+                                                            <li><a href="index.html">Ordinary current account</a></li>
+                                                            <li><a href="index.html">Premium current account</a></li>
+                                                            <li><a href="index.html">Tuza current Account</a></li>
+                                                          </ul>
+                                                    </li>
+                                                    <li><a href="index.html">saving accounts </a>
+                                                        <ul class="dropdown" style="width: 220px;">
+                                                            <li><a href="index.html">Hirwa saving account</a></li>
+                                                            <li><a href="index.html">Gwiza saving account</a></li>
+                                                            <li><a href="index.html">Abana saving account</a></li>
+                                                            <li><a href="index.html">Giricumbi saving account</a></li>
+                                                          </ul>
+                                                    </li>
+                                                    <li><a href="index.html">Loan products</a>
+                                                        <ul class="dropdown" style="width: 180px;">
+                                                            <li><a href="index.html">Car Loan</a></li>
+                                                            <li><a href="index.html">Home Loan</a></li>
+                                                            <li><a href="index.html">Home construction</a></li>
+                                                            <li><a href="index.html">Home Equity</a></li>
+                                                            <li><a href="index.html">Personal Loan</a></li>
+                                                          </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            </li>
+                                            <li><a href="about.html">SME banking</a>
+                                                <ul class="dropdown" style="width: 180px;">
+                                                    <li><a href="index.html">Overdrafts</a></li>
+                                                    <li><a href="index.html">Business loans</a></li>
+                                                    <li><a href="index.html">Asset finance</a></li>
+                                                    <li><a href="index.html">Trade finance</a></li>
+                                                  </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li style="margin-left: -1%;"><a href="index.html">Corporate & Investment</a>
+                                        <ul class="dropdown" style="width: 250px;">
+                                            <li><a href="index.html">Lending products</a></li>
+                                            <li><a href="index.html">Trade finance</a></li>
+                                            <li><a href="index.html">Treasury</a></li>
+                                            <li><a href="index.html">Transactional Banking</a></li>
+                                          </ul>
+                                    </li>
+                                    <li style="margin-left: -1%;"><a href="#">Diaspora </a>
+                                        <ul class="dropdown" style="width: 280px; height: 180px;">
+                                            <li><a href="index.html">How to open an account</a></li>
+                                            <li><a href="index.html">Make Money transfers</a></li>
+                                            <li><a href="index.html">Access and manage your account</a></li>
+                                            <li><a href="index.html">How to Invest back home</a></li>
+                                            <li><a href="index.html">Apply for a loan</a></li>
+                                          </ul>
+                                        <!-- <div class="megamenu">
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="#">Portfolio 1</a></li>
+                                                <li><a href="#">Portfolio 2</a></li>
+                                                
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="#">Portfolio 8</a></li>
+                                                <li><a href="#">Portfolio 9</a></li>
+                                                
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="#">Portfolio 15</a></li>
+                                            </ul>
+                                        </div> -->
+                                    </li>
+                                    <li style="margin-left: -1%;"><a href="#">Digital Banking</a>
+                                        <ul class="dropdown" style="width: 250px;">
+                                            <li><a href="index.html">Agency banking</a></li>
+                                            <li><a href="index.html">Mobile banking</a></li>
+                                            <li><a href="index.html">Internet banking</a></li>
+                                            <li><a href="index.html">Card center</a></li>
+                                            <li><a href="index.html">ATMs</a></li>
+                                          </ul>
+                                    </li>
+                                    <li><a href="#">Other Services</a>
+                                        <ul class="dropdown" style="width: 250px;">
+                                            <li><a href="index.html">Remittances</a></li>
+                                            <li><a href="index.html">Foreign Exchange</a></li>
+                                          </ul>
+                                    </li>
+                                    <li style="margin-left: -1%;"><a href="#">Quick Links</a>
+                                        <div class="megamenu">
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="#">Customer Forms</a></li>
+                                                <li><a href="#">Tariff Guide</a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="#">Online customer forms</a></li>
+                                                <li><a href="#">Online registration for mobile</a></li>
+                                                <li><a href="#">Internet banking and online login</a></li>
+                                            
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="#">Online Loans requests </a></li>
+                                                <li><a href="#">Branch , AGENT and ATM locator</a></li>
+                                                <li><a href="#">Loan calculator</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li style="margin-left: -1%;"><a href="contact.html">Contact</a></li>
+                                </ul>
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                          
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Hero Area Start ##### -->
+    <div class="hero-area">
+        <div class="hero-slideshow owl-carousel">
+
+            <!-- Single Slide -->
+            <div class="single-slide bg-img">
+                <!-- Background Image-->
+                <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/bg-img/slide0.jpg);"></div>
+                <!-- Welcome Text -->
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center justify-content-center">
+                        <div class="col-12 col-lg-9">
+                            <div class="welcome-text text-center">
+                                
+                                <h2 data-animation="fadeInUp" data-delay="300ms">Welcome To BPR</h2>
+                                <h4><p data-animation="fadeInUp" data-delay="500ms">Simplifying your world to enable your progress</p></h4>
+                                <ul  class="icon" style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;" > 
+                                    <li style="float: left;"><a href="#"> <img src="img/core-img/account1.png" style="width: 80px; height: 80px;" alt="Current account" /></a> </li> 
+                                    <li style="float: left;"><a href="#"><img src="img/core-img/saving1.png" style="width: 80px; height: 80px; margin-left: 40px; " alt="start saving" /></a> </li> 
+                                    <li style="float: left;"><a href="#"><img src="img/core-img/loan.png" style="width: 80px; height: 80px; margin-left: 40px; " alt="loan" /></a> </li>
+                                    <li style="float: left;" ><a href="#"><img src="img/core-img/internet.png" style="width: 80px; height: 80px; margin-left: 40px; " alt="internet banking" /></a> </li>
+                                    <li style="float: left;" ><a href="#"><img src="img/core-img/send1.png" style="width: 80px; height: 80px; margin-left: 40px; " alt="send izi cash" /></a> </li>
+                                    <li style="float: left;" ><a href="#"><img src="img/core-img/get1.png" style="width: 80px; height: 80px; margin-left: 40px; " alt="get quick cash" /></a> </li>
+                                    <li style="float: left;" ><a href="#"><img src="img/core-img/horana.png" style="width: 80px; height: 80px; margin-left: 40px; " alt="Horana cash" /></a> </li>
+                                   </ul> 
+                                <!-- <a href="#" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">Get it Now</a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Slide Duration Indicator -->
+                <div class="slide-du-indicator"></div>
+            </div>
+
+           
+        </div>
+    </div>
+    <!-- ##### Hero Area End ##### -->
+<style>
+    .icon li{
+  display: block;
+}
+@media (min-width:768px){
+    .icon li 
+    {
+        display: inline;
+        
+    }
+}
+
+</style>
+<!-- ##### Call To Action Start ###### -->
+<section class="cta-2-area wow fadeInUp" data-wow-delay="100ms" style="background-color: #707271;">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <!-- Cta Content -->
+                <div class="cta-content d-flex flex-wrap align-items-center justify-content-between">
+                    <div class="cta-text">
+                        <h4>Are you in need for our services? Get in touch with us.</h4>
+                    </div>
+                    <div class="cta-btn">
+                        <a href="#" class="btn credit-btn box-shadow">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ##### Call To Action End ###### -->
+
+    <!-- ##### Features Area Start ###### -->
+    <!-- <section class="features-area section-padding-100-0">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-features-area mb-100 wow fadeInUp" data-wow-delay="100ms"> -->
+                        <!-- Section Heading -->
+                       <!-- <div class="section-heading">
+                            <div class="line"></div>
+                            <p>Take look at our</p>
+                            <h2>Our Loans</h2>
+                        </div>
+                        <h6>In vitae nisi aliquam, scelerisque leo a, volutpat sem. Viva mus rutrum dui fermentum eros hendrerit.</h6>
+                        <a href="#" class="btn credit-btn mt-50">Connect Now</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-features-area mb-100 wow fadeInUp" data-wow-delay="300ms">
+                        <img src="img/bg-img/car.webp" alt="" style="height: 280px;">
+                        <h5>Car Loan</h5>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-features-area mb-100 wow fadeInUp" data-wow-delay="500ms">
+                        <img src="img/bg-img/3.jpg" alt="">
+                        <h5>Personal Loan</h5>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-features-area mb-100 wow fadeInUp" data-wow-delay="700ms">
+                        <img src="img/bg-img/home.jpeg" alt="" style="height: 280px;">
+                        <h5>Home &amp; construction</h5>  
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!-- ##### Features Area End ###### -->
+
+
+
+     
+
+     
+      <!--Carousel Wrapper-->
+      <div id="carousel-example-2" class="carousel slide carousel-fade z-depth-1-half" data-ride="carousel">
+        <!--Indicators-->
+        <ol class="carousel-indicators">
+          <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+          <li data-target="#carousel-example-2" data-slide-to="1"></li>
+          <li data-target="#carousel-example-2" data-slide-to="2"></li>
+        </ol>
+        <!--/.Indicators-->
+        <!--Slides-->
+        <div class="carousel-inner" style="background:#C20430; padding:0 20px; color:#FFF;" role="listbox">
+          <div class="carousel-item active">
+            <div class="view">
+               <div class="row" style=" margin-top:30px !important;margin-bottom:30px !important;">
+         <div class="col-lg-6 corona">
+<img src="img/118246454_2673119966300069_3257359066723322266_o.jpg" width="960" height="683" border="0" alt="">
+      </div>
+      <div class="col-lg-6 cta-content" >
+    
+  
+     <!-- Section Heading -->
+                    <div class="section-heading white" >
+                        <div class="line"></div>
+                        
+                        <h2>SME Banking</h2>
+                    </div>
+                    <h6 style="color:white !important;" >Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sod ales. Maecenas sed magna tempor, efficitur maur is in, sollicitudin augue. Praesent pretium finibus quam.</h6>
+                    <div class="d-flex flex-wrap mt-50">
+                        <!-- Single Skills Area -->
+                        <div style="color:white !important;"  class="single-skils-area mb-70 mr-5">
+                            <div id="circle" class="circle" data-value="0.90">
+                                <div class="skills-text">
+                                    <span>90%</span>
+                                </div>
+                            </div>
+                            <p>Saving</p>
+                        </div>
+
+                        <!-- Single Skills Area -->
+                        <div style="color:white !important;"  class="single-skils-area mb-70 mr-5">
+                            <div id="circle2" class="circle" data-value="0.75">
+                                <div class="skills-text">
+                                    <span>75%</span>
+                                </div>
+                            </div>
+                            <p>Investment</p>
+                        </div>
+
+                        <!-- Single Skills Area -->
+                        <div style="color:white !important;"  class="single-skils-area mb-70">
+                            <div id="circle3" class="circle" data-value="0.97">
+                                <div class="skills-text">
+                                    <span>97%</span>
+                                </div>
+                            </div>
+                            <p>Production</p>
+                        </div>
+                    </div>
+                    <a href="#" class="btn credit-btn box-shadow btn-2">Read More</a>
+   
+     
+      </div>
+     
+    </div>
+            </div>
+           
+          </div>
+ <div class="carousel-item">
+            <div class="view">
+               <div class="row" style=" margin-top:30px !important;margin-bottom:30px !important;">
+ <div class="col-lg-6 cta-content" >
+    
+  
+     <!-- Section Heading -->
+                    <div class="section-heading white" >
+                        <div class="line"></div>
+                        
+                        <h2>Saving accounts</h2>
+                    </div>
+                    <h6 style="color:white !important;" >Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sod ales. Maecenas sed magna tempor, efficitur maur is in, sollicitudin augue. Praesent pretium finibus quam.</h6>
+                    <div class="d-flex flex-wrap mt-50">
+                        <!-- Single Skills Area -->
+                        <div class="single-skils-area mb-70 mr-5">
+                            <div id="circle" class="circle" data-value="0.90">
+                                <div class="skills-text">
+                                    <span>90%</span>
+                                </div>
+                            </div>
+                            <p>Saving</p>
+                        </div>
+
+                        <!-- Single Skills Area -->
+                        <div class="single-skils-area mb-70 mr-5">
+                            <div id="circle2" class="circle" data-value="0.75">
+                                <div class="skills-text">
+                                    <span>75%</span>
+                                </div>
+                            </div>
+                            <p>Investment</p>
+                        </div>
+
+                        <!-- Single Skills Area -->
+                        <div class="single-skils-area mb-70">
+                            <div id="circle3" class="circle" data-value="0.97">
+                                <div class="skills-text">
+                                    <span>97%</span>
+                                </div>
+                            </div>
+                            <p>Production</p>
+                        </div>
+                    </div>
+                    <a href="#" class="btn credit-btn box-shadow btn-2">Read More</a>
+   
+     
+      </div>
+         <div class="col-lg-6 corona">
+<img src="img/118394471_2672952529650146_8041394921669823035_o.jpg" width="1494" height="1063" border="0" alt="">
+      </div>
+     
+     
+    </div>
+            </div>
+           
+          </div>
+		   <div class="carousel-item">
+            <div class="view">
+               <div class="row" style=" margin-top:30px !important;margin-bottom:30px !important;">
+         <div class="col-lg-6 corona">
+<img src="img/EgAkSlOWsAEiMhz.jpg" width="1080" height="757" border="0" alt="">
+      </div>
+      <div class="col-lg-6 cta-content" >
+    
+  
+     <!-- Section Heading -->
+                    <div class="section-heading white" >
+                        <div class="line"></div>
+                        
+                        <h2>Personal Banking</h2>
+                    </div>
+                    <h6 style="color:white !important;" >Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sod ales. Maecenas sed magna tempor, efficitur maur is in, sollicitudin augue. Praesent pretium finibus quam.</h6>
+                    <div class="d-flex flex-wrap mt-50">
+                        <!-- Single Skills Area -->
+                        <div class="single-skils-area mb-70 mr-5">
+                            <div id="circle" class="circle" data-value="0.90">
+                                <div class="skills-text">
+                                    <span>90%</span>
+                                </div>
+                            </div>
+                            <p>Saving</p>
+                        </div>
+
+                        <!-- Single Skills Area -->
+                        <div class="single-skils-area mb-70 mr-5">
+                            <div id="circle2" class="circle" data-value="0.75">
+                                <div class="skills-text">
+                                    <span>75%</span>
+                                </div>
+                            </div>
+                            <p>Investment</p>
+                        </div>
+
+                        <!-- Single Skills Area -->
+                        <div class="single-skils-area mb-70">
+                            <div id="circle3" class="circle" data-value="0.97">
+                                <div class="skills-text">
+                                    <span>97%</span>
+                                </div>
+                            </div>
+                            <p>Production</p>
+                        </div>
+                    </div>
+                    <a href="#" class="btn credit-btn box-shadow btn-2">Read More</a>
+   
+     
+      </div>
+     
+    </div>
+            </div>
+           
+          </div>
+          
+      
+        </div>
+        <!--/.Slides-->
+        <!--Controls-->
+        <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+        <!--/.Controls-->
+      </div>
+      <!--/.Carousel Wrapper-->
+
+
+
+
+
+
+
+
+   
+    <!-- ##### Newsletter Area Start ###### -->
+    <section class="newsletter-area section-padding-100 bg-img jarallax" style="background-image: url(img/core-img/sub.jpg);">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-sm-10 col-lg-8">
+                    <div class="nl-content text-center">
+                        <h2>Subscribe to our newsletter</h2>
+                        <form action="#" method="post">
+                            <input type="email" name="nl-email" id="nlemail" placeholder="Your e-mail">
+                            <button type="submit">Subscribe</button>
+                        </form>
+                        <p>Curabitur elit turpis, maximus quis ullamcorper sed, maximus eu neque. Cras ultrices erat nec auctor blandit.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Newsletter Area End ###### -->
+<!-- ##### Call To Action Start ###### -->
+<section class="cta-area d-flex flex-wrap">
+    <!-- Cta Content -->
+    <div class="cta-content">
+        <!-- Section Heading -->
+        <div class="section-heading white">
+            <div class="line"></div>
+            
+            <h2>Some Milestones</h2>
+        </div>
+        <h6 class="mb-0">Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sod ales. Maecenas sed magna tempor, efficitur maur is in, sollicitudin augue.</h6>
+
+        <div class="d-flex flex-wrap align-items-center justify-content-between">
+            <!-- Single Cool Facts -->
+            <div class="single-cool-fact white d-flex align-items-center mt-50">
+                <div class="scf-icon mr-15">
+                    <i class="icon-piggy-bank"></i>
+                </div>
+                <div class="scf-text">
+                    <h2><span class="counter">8710</span></h2>
+                    <p>Clients</p>
+                </div>
+            </div>
+            <!-- Branches -->
+            <div class="single-cool-fact white d-flex align-items-center mt-50">
+                <div class="scf-icon mr-15">
+                    <i class="icon-profits"></i>
+                </div>
+                <div class="scf-text">
+                    <h2><span class="counter">65</span></h2>
+                    <p>Branches</p>
+                </div>
+            </div>
+            <!-- End of branches -->
+            <!--Agents-->
+            <div class="single-cool-fact white d-flex align-items-center mt-50">
+                <div class="scf-icon mr-15">
+                    <i class="icon-smartphone-1"></i>
+                </div>
+                <div class="scf-text">
+                    <h2><span class="counter">865</span></h2>
+                    <p>Agents</p>
+                </div>
+            </div>
+            <!-- End of angents -->
+
+            <!-- Single Cool Facts -->
+            <div class="single-cool-fact white d-flex align-items-center mt-50">
+                <div class="scf-icon mr-15">
+                    <i class="icon-coin"></i>
+                </div>
+                <div class="scf-text">
+                    <h2><span class="counter">35</span></h2>
+                    <p>Creditors</p>
+                </div>
+            </div>
+            <!-- Single Cool Facts -->
+            <div class="single-cool-fact white d-flex align-items-center mt-50">
+                <div class="scf-icon mr-15">
+                    <i class="icon-diamond"></i>
+                </div>
+                <div class="scf-text">
+                    <h2><span class="counter">12</span></h2>
+                    <p>awards</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- Cta Thumbnail -->
+    <div class="cta-thumbnail bg-img jarallax" style="background-image: url(img/bg-img/award.png);"></div>
+</section>
+<!-- ##### Call To Action End ###### -->
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area section-padding-100-0" style="background-color: #707271;">
+        <div class="container">
+            <div class="row">
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
+                        <h5 class="widget-title">About Us</h5>
+                        <!-- Nav -->
+                        <nav>
+                            <ul>
+                                <li><a href="#">Homepage</a></li>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Services &amp; Offers</a></li>
+                                
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
+                        <h5 class="widget-title">Solutions</h5>
+                        <!-- Nav -->
+                        <nav>
+                            <ul>
+                                <li><a href="#">Our Loans</a></li>
+                                <li><a href="#">Trading &amp; Commerce</a></li>
+                                <li><a href="#">Banking &amp; Private Equity</a></li>
+                                
+                                <li><a href="#">Financial Solutions</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
+                        <h5 class="widget-title">Our Loans</h5>
+                        <!-- Nav -->
+                        <nav>
+                            <ul>
+                                <li><a href="#">Car Loan</a></li>
+                                <li><a href="#">Home Loan</a></li>
+                                <li><a href="#">Home construction</a></li>
+                                <li><a href="#">Home Equity </a></li>
+                                <li><a href="#">Personal Loan</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-100">
+                        <h5 class="widget-title">Contact us</h5>
+
+                       
+
+ <pre style="font-size:14px; color:white;">+250 788 187200
+Call Center: 1500
+info@bpr.rw
+customerservice@bpr.rw
+SWIFT CODE: BPRWRWRW</pre>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Copywrite Area -->
+        <div class="copywrite-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="copywrite-content d-flex flex-wrap justify-content-between align-items-center">
+                            <!-- Footer Logo -->
+                            <a href="index.html" class="footer-logo"><img src="img/logo.PNG" width="421" height="109" border="0" alt=""></a>
+
+                            <!-- Copywrite Text -->
+                            <p class="copywrite-text"><a href="#">
+Copyright &copy;<script>document.write(new Date().getFullYear());</script></a>
+</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area Start ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+</body>
+
+</html>
